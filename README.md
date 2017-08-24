@@ -1,3 +1,10 @@
+
+### Ressources types ###
+### AE ty=2 ###
+### Container ty=3 ###
+### ContentInstance ty=4 ###
+### Subscription ty=23 ###
+
 #ACP (Additionate for right attribution)
 #63 gives CREATE, RETRIEVE, UPDATE, DELETE, DISCOVERY and NOTIFY rights
 #Value		Interpretation 	
